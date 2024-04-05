@@ -1,0 +1,15 @@
+Queue 1 Customers 
+Customer Full Name:ganda max
+Number of Burgers Required: 1
+Customer Full Name:kalu max
+Number of Burgers Required: 1
+
+Queue 2 Customers 
+
+Customer Full Name:sudu max
+Number of Burgers Required: 1
+
+Queue 3 Customers 
+
+Customer Full Name:katha max
+Number of Burgers Required: 1

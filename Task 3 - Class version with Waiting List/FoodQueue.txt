@@ -1,0 +1,14 @@
+----Queue 1 Customers----
+
+Customer Full Name:asdcf sdcf
+Number of Burgers Required: 1
+
+----Queue 2 Customers----
+
+Customer Full Name:ganda max
+Number of Burgers Required: 1
+
+----Queue 3 Customers----
+
+Customer Full Name:wedf wer
+Number of Burgers Required: 1
